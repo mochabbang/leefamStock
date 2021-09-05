@@ -1,0 +1,10 @@
+{
+  "pages_to_fetch": 1,
+  "mariadb_con" : {
+    "host": "192.168.219.105",
+    "user": "leefam",
+    "password": "admin2021!@#",
+    "db": "leefamStock",
+    "charset": "utf8"
+  }
+}
